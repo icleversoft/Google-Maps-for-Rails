@@ -14,6 +14,9 @@
   height: 400px;
 }
 
+#map label { width: auto; display:inline; }
+#map img { max-width: none; }
+
 .bing_map {
    position: absolute;
    top: 20;
